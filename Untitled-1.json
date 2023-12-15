@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "ROYAL BLUNTS HEMPARILLO 15CT BOX",
+  "url": "https://awswholesale.com/products/royal-blunts-hemparillo-15ct-box-100053",
+  "image": [
+    "https://awswholesale.com/cdn/shop/products/100053_5Ecalifire_1000x.jpg?v=1642180862"
+  ],
+  "description": "",
+  "sku": "100053|BERRIES",
+  "brand": {
+    "@type": "Thing",
+    "name": "Royal Blunts"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "sku": "100053|BERRIES",
+      "availability": "http://schema.org/InStock",
+      "price": 10.0,
+      "priceCurrency": "USD",
+      "url": "https://awswholesale.com/products/royal-blunts-hemparillo-15ct-box-100053?variant=42344755855582"
+    }
+  ]
+}
